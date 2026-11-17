@@ -12,22 +12,10 @@ If you’re looking for a developer who can deliver **production‑grade, privac
 <!-- PROFILE_METRICS:CARDS:START -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/overview-dark.svg?v=ff94bd86ad04" />
-    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/overview-light.svg?v=a149f48a2a8d" width="48%" alt="Overview metrics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/visibility-dark.svg?v=26ceb4276e13" />
-    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/visibility-light.svg?v=64939beaefbf" width="48%" alt="Visibility metrics" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/languages-dark.svg?v=290994ae349a" />
-    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/languages-light.svg?v=827f27524359" width="48%" alt="Languages metrics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/freshness-dark.svg?v=873895570e77" />
-    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/freshness-light.svg?v=de569c9a7938" width="48%" alt="Freshness metrics" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-dark.svg?v=3f51b5c2d570" />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-light.svg?v=02c6003c0fbe" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-dark.svg?v=30cdb13bec35" />
+    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-light.svg?v=9b66abbb2deb" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
   </picture>
 </p>
 <!-- PROFILE_METRICS:CARDS:END -->
