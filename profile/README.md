@@ -8,3 +8,7 @@ I’m a full‑stack engineer who builds **high‑performance, privacy‑preserv
 - **GitHub:** https://github.com/pylab-me
 
 If you’re looking for a developer who can deliver **production‑grade, privacy‑aware, high‑performance software**, let’s talk. I’m eager to bring my expertise to your team.
+
+<!-- PROFILE_METRICS:CARDS:START -->
+
+<!-- PROFILE_METRICS:CARDS:END -->
