@@ -12,10 +12,10 @@ If you’re looking for a developer who can deliver **production‑grade, privac
 <!-- PROFILE_METRICS:CARDS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-dark.svg?v=008344bfbc45" />
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-light.svg?v=e44615a801ad" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-dark.svg?v=baa6d325a255" />
-    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-light.svg?v=b1eb9c04e1dd" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-dark.svg?v=8996e52cbd34" />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-mobile-light.svg?v=b1b20217a0c9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-dark.svg?v=9d9a56983c02" />
+    <img src="https://raw.githubusercontent.com/pylab-me/.github/main/assets/metrics/dashboard-desktop-light.svg?v=0fb7e352d58c" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
   </picture>
 </p>
 <!-- PROFILE_METRICS:CARDS:END -->
